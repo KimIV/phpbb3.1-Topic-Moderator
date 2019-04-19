@@ -23,4 +23,7 @@ $lang = array_merge($lang, array(
 	'OPEN_SUCCESS'			=> 'Topic was successfully opened',
 	'CLOSE_SUCCESS'			=> 'Topic was successfully closed',
 	'CANNOT_MANAGE_TOPIC'	=> 'You do not have access to this part of the board',
+
+	'LOG_TOPIC_CLOSE'		=> '<strong>Closed topic</strong>',
+	'LOG_TOPIC_OPEN'		=> '<strong>The previously closed topic is open</strong>',
 ));
